@@ -1,0 +1,5 @@
+flask==0.11.1
+pymongo==3.3.1
+flask-socketio==2.7.2
+gunicorn==19.6.0
+eventlet==0.19.0
